@@ -10,3 +10,11 @@
 4. 디스플레이 해상도 : 1920*1080
 ```
 
+
+<img src="image/jstris 예시 화면.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="image/화면 설정.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
