@@ -1,0 +1,6 @@
+C:\Users\skybl\source\repos\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\skybl\source\repos\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\skybl\source\repos\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\skybl\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\skybl\source\repos\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\skybl\source\repos\Tetris\Tetris\obj\Release\Tetris.pdb
