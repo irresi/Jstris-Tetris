@@ -1,8 +1,9 @@
 ﻿# Jstris-Tetris
 
+
+테트리스 하기
+https://jstris.jezevec10.com/
 - - -
-
-
 ```
 1. 크롬으로 여세요
 2. 북마크를 쓰지 마세요
