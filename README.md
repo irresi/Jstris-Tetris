@@ -5,6 +5,9 @@
 https://jstris.jezevec10.com/
 - - -
 ```
+배포용이 아니라 학습용이기 때문에 로컬 환경에서 조건을 맞추어 줘야 합니다.
+추후 T Spin기능과 클리어를 추가하며 같이 수정할 예정입니다.
+
 1. 크롬으로 여세요
 2. 북마크를 쓰지 마세요
 3. 텍스트 및 앱 크기 : 100%
@@ -28,10 +31,14 @@ GeneticAlgorithm.cs에서 먼저 학습을 한다.
 학습을 할 때 Weight 클래스에서 함수들의 반환값에 각각의 개체에 있는 다른 계수를 곱하여 가중치를 구하고 가중치가 가장 높은 곳에 블록을 놓게 된다.
 Weight 클래스에서 클리어 줄 수, 공격할 수 있는 줄 수, 최대 높이, 블록 밑 빈칸의 수, 사방이 막혀있는 블록 수 등을 구할 수 있는 함수가 있다.
 
-# PVP에서 과도하게 악용하거나 Jstris 사이트에 로그인하고 플레이하지 마세요
+처음부터 학습시키고 싶으면 텍스트 파일의 내용을 삭제하고 돌리면 됩니다.
+
+# Jstris 사이트에 로그인하고 플레이하지 마세요
 
 로그인하고 돌리면 리더보드에 1위로 등록됩니다.
 웹사이트 운영에 피해를 줄 수 있으니 로그인하지 않고 돌려보세요.
+
+_PVP에서 과도하게 사용하거나 리더보드에 1위를 달성하면 IP 밴이 됩니다._
 
 # 클래스별 설명
 
@@ -45,4 +52,4 @@ TBlock.cs는 Block.cs와 유사하지만 오프라인 학습용.
 Weight.cs는 가중치를 반환하는 함수, TWeight.cs는 Weight의 오프라인 학습용
 
 # 실행 영상
-https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=EF8F1569AD6E603A8646D2A0111826C28D30&outKey=V1279c7b3503a2363f28085f379e46c1a1acc63d8c211f4b61c5f85f379e46c1a1acc 
+[실행 영상 열기](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=EF8F1569AD6E603A8646D2A0111826C28D30&outKey=V1279c7b3503a2363f28085f379e46c1a1acc63d8c211f4b61c5f85f379e46c1a1acc )
