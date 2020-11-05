@@ -39,6 +39,6 @@ Solve.cs는 핵심 클래스로 jstris에서 직접 테트리스를 플레이할
 TBlock.cs는 Block.cs와 유사하지만 오프라인 학습용.
 Weight.cs는 가중치를 반환하는 함수, TWeight.cs는 Weight의 오프라인 학습용
 
-
+<iframe width="544" height="306" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=EF8F1569AD6E603A8646D2A0111826C28D30&outKey=V1279c7b3503a2363f28085f379e46c1a1acc63d8c211f4b61c5f85f379e46c1a1acc" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 
 
