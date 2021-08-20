@@ -1,4 +1,5 @@
 ﻿# Jstris-Tetris
+유전 알고리즘을 이용해 학습하는 테트리스 봇입니다.
 
 # 실행 영상
 [실행 영상 열기](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=EF8F1569AD6E603A8646D2A0111826C28D30&outKey=V1279c7b3503a2363f28085f379e46c1a1acc63d8c211f4b61c5f85f379e46c1a1acc )
